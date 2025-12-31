@@ -27,10 +27,6 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-  
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
