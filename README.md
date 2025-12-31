@@ -32,7 +32,9 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=💻%20Developer%20|%20🚀%20Innovator&fontSize=38&fontColor=58a6ff&animation=scaleIn" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=👋+Bienvenue+sur+mon+profil+GitHub;Développeur+Full+Stack+passionné;Toujours+en+quête+d'apprentissage" alt="Typing SVG" />
+</div>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
