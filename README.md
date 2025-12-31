@@ -8,9 +8,6 @@
 </p>
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=💻%20Tech%20Stack%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20•%20Node.js%20•%20Python%20•%20Docker%20•%20AWS%20•%20Kubernetes&descSize=20&descAlignY=55" width="100%"/>
-</p>
 
 <p align="center">
   <!-- Status Badge -->
