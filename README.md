@@ -1,26 +1,15 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/55713da819edba8fc67dae7a4ed0ec652c176b96/assets/Bottom_up.svg" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<div align="center">
-  <h1 align="center">
+  <h1>
     Salut, je suis Cédric Boimin 👋
   </h1>
-
-  <h3>
-    📊 Data Analyst &nbsp;|&nbsp;
-    🤖 Big Data & IA &nbsp;|&nbsp;
-    📈 Business-Driven Analytics &nbsp;|&nbsp;
-    💡 Transformer les Données en Décisions
-  </h3>
-</div>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
+</p>
 
 <p align="center">
   <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Transformer+les+données+en+décisions.;Donner+du+sens+aux+chiffres.;Créer+des+dashboards+clairs+et+utiles.;De+la+donnée+brute+à+l%27impact+business.;Bienvenue+dans+mon+univers+data." />
 </p>
 
-<h2 align="center" style="margin-top: 30px; margin-bottom: 10px;">Aperçu du Profil</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" width="100%" alt="Header" />
-</p>
+<h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
 
 <p align="center">
   <!-- Status Badge -->
@@ -39,6 +28,8 @@
   <!-- Availability -->
   <img src="https://img.shields.io/badge/Disponible-Ouvert_aux_Opportunités-00B4D8?style=plastic" style="height: 20px;" />
 </p>
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
@@ -147,44 +138,36 @@
 </p>
 
 <!-- Projects Section -->
-<h3 align="center">📂 Projets Data dont je suis fier</h3>
+<h3>📂 Projets Data dont je suis fier</h3>
 
-<table border="0" style="width: 100%;">
+<table border="0">
   <tr>
    <!-- Project 1 -->
-    <td align="center" valign="top" style="width: 25%; padding: 15px;">
-      <h4 align="center">📊 E-commerce Sales Dashboard</h4>
-      <div align="center" style="min-height: 140px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.dribbble.com/userupload/12921422/file/original-5cdf08f5827e31c85f65ba70f636b757.gif" width="200" height="140" alt="E-commerce Dashboard">
-      </div>
-      <p align="center" style="margin-top: 10px;">Analyse complète des ventes avec KPIs business, tendances temporelles et recommandations stratégiques via Power BI. Dashboards interactifs pour décideurs.</p>
+    <td align="center">
+      <h4>📊 E-commerce Sales Dashboard</h4>
+      <img src="https://cdn.dribbble.com/userupload/12921422/file/original-5cdf08f5827e31c85f65ba70f636b757.gif" width="200" height="140" alt="E-commerce Dashboard"><br>
+      <p>Analyse complète des ventes avec KPIs business, tendances temporelles et recommandations stratégiques via Power BI. Dashboards interactifs pour décideurs.</p>
     </td>
 
 <!-- Project 2 -->
-  <td align="center" valign="top" style="width: 25%; padding: 15px;">
-      <h4 align="center">📉 Churn Prediction – Telecom</h4>
-      <div align="center" style="min-height: 140px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.dribbble.com/userupload/12551448/file/original-0b319d2d1ce2a1e4d2a0da4c5e5f6dd1.gif" width="200" height="140" alt="Churn Prediction">
-      </div>
-      <p align="center" style="margin-top: 10px;">Modèle ML pour anticiper la résiliation client et soutenir les stratégies de rétention. Classification avec scikit-learn et analyse prédictive.</p>
+  <td align="center">
+      <h4>📉 Churn Prediction – Telecom</h4>
+      <img src="https://cdn.dribbble.com/userupload/12551448/file/original-0b319d2d1ce2a1e4d2a0da4c5e5f6dd1.gif" width="200" height="140" alt="Churn Prediction"><br>
+      <p>Modèle ML pour anticiper la résiliation client et soutenir les stratégies de rétention. Classification avec scikit-learn et analyse prédictive.</p>
     </td>
 
 <!-- Project 3 -->
-  <td align="center" valign="top" style="width: 25%; padding: 15px;">
-      <h4 align="center">🏗️ Data Warehouse – SQL Server</h4>
-      <div align="center" style="min-height: 140px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.dribbble.com/userupload/12482753/file/original-2dd65e3c8b5a95fda0d42c5f8ae73cec.gif" width="200" height="140" alt="Data Warehouse">
-      </div>
-      <p align="center" style="margin-top: 10px;">Modélisation en étoile (Star Schema), requêtes analytiques complexes, structuration et optimisation des données pour analyses business.</p>
+  <td align="center">
+      <h4>🏗️ Data Warehouse – SQL Server</h4>
+      <img src="https://cdn.dribbble.com/userupload/12482753/file/original-2dd65e3c8b5a95fda0d42c5f8ae73cec.gif" width="200" height="140" alt="Data Warehouse"><br>
+      <p>Modélisation en étoile (Star Schema), requêtes analytiques complexes, structuration et optimisation des données pour analyses business.</p>
     </td>
 
 <!-- Project 4 -->
-  <td align="center" valign="top" style="width: 25%; padding: 15px;">
-      <h4 align="center">📈 Excel Advanced Dashboard</h4>
-      <div align="center" style="min-height: 140px; display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.dribbble.com/userupload/10543014/file/original-4703d0ba72b72f87fa49a618a24a1f6d.gif" width="200" height="140" alt="Excel Dashboard">
-      </div>
-      <p align="center" style="margin-top: 10px;">Automatisation avancée, formules complexes, tableaux croisés dynamiques et visualisations claires pour décideurs. Business Intelligence avec Excel.</p>
+  <td align="center">
+      <h4>📈 Excel Advanced Dashboard</h4>
+      <br>
+      <p>Automatisation avancée, formules complexes, tableaux croisés dynamiques et visualisations claires pour décideurs. Business Intelligence avec Excel.</p>
     </td>
   </tr>
 </table>
