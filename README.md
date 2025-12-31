@@ -11,7 +11,6 @@
 <p align="center">
   <!-- Status Badge -->
   <a href="https://github.com/CedricBoimin">
-    <img src="https://img.shields.io/badge/statut-actif-brightgreen.svg?style=plastic" style="height: 20px;" />
   </a>
 
   <!-- Python Version -->
