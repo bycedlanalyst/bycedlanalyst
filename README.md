@@ -32,8 +32,7 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Full%20Stack%20Developer&fontAlign=70&rotate=13&fontAlignY=25&desc=React%20|%20Node.js%20|%20Python%20|%20Docker&descAlign=70&descAlignY=44" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e96443,50:904e95,100:28a745&height=160&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
   <!-- Image on the Right -->
