@@ -62,7 +62,6 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
