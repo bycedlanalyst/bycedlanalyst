@@ -149,28 +149,36 @@
     <td align="center">
       <h4>📊 E-commerce Sales Dashboard</h4>
       <img src="https://cdn.dribbble.com/userupload/12921422/file/original-5cdf08f5827e31c85f65ba70f636b757.gif" width="200" height="140" alt="E-commerce Dashboard"><br>
-      <p>Analyse complète des ventes avec KPIs business, tendances temporelles et recommandations stratégiques via Power BI. Dashboards interactifs pour décideurs.</p>
+     <p align="center" style="margin-top: 10px;">
+Analyse des ventes et des KPIs clés, identification des tendances temporelles et recommandations business à l’aide de tableaux de bord Power BI interactifs.
+</p>
     </td>
 
 <!-- Project 2 -->
   <td align="center">
       <h4>📉 Churn Prediction – Telecom</h4>
       <img src="https://cdn.dribbble.com/userupload/12551448/file/original-0b319d2d1ce2a1e4d2a0da4c5e5f6dd1.gif" width="200" height="140" alt="Churn Prediction"><br>
-      <p>Modèle ML pour anticiper la résiliation client et soutenir les stratégies de rétention. Classification avec scikit-learn et analyse prédictive.</p>
+      <p align="center" style="margin-top: 10px;">
+Modèle de machine learning visant à anticiper la résiliation client, avec segmentation des profils à risque et aide à la décision pour les stratégies de rétention.
+</p>
     </td>
 
 <!-- Project 3 -->
   <td align="center">
       <h4>🏗️ Data Warehouse – SQL Server</h4>
       <img src="https://cdn.dribbble.com/userupload/12482753/file/original-2dd65e3c8b5a95fda0d42c5f8ae73cec.gif" width="200" height="140" alt="Data Warehouse"><br>
-      <p>Modélisation en étoile (Star Schema), requêtes analytiques complexes, structuration et optimisation des données pour analyses business.</p>
+      <p align="center" style="margin-top: 10px;">
+Conception d’un data warehouse avec modélisation en étoile, requêtes analytiques avancées et structuration des données pour des analyses décisionnelles.
+</p>
     </td>
 
 <!-- Project 4 -->
   <td align="center">
       <h4>📈 Excel Advanced Dashboard</h4>
       <br>
-      <p>Automatisation avancée, formules complexes, tableaux croisés dynamiques et visualisations claires pour décideurs. Business Intelligence avec Excel.</p>
+      <p align="center" style="margin-top: 10px;">
+Création de dashboards Excel avancés intégrant automatisation, formules complexes et tableaux croisés dynamiques pour un pilotage clair et efficace.
+</p>
     </td>
   </tr>
 </table>
