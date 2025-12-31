@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e96443,50:904e95,100:28a745&height=160&section=header&text=Data%20Analyst&fontSize=50&fontColor=fff&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=📊%20Data%20Analyst%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20•%20SQL%20•%20Power%20BI%20•%20Tableau%20•%20Excel%20•%20Statistics&descSize=20&descAlignY=55" width="100%"/>
+</p>
 <h1 align="center">
   Salut, je suis Cédric Boimin 👋
 </h1>
@@ -33,9 +35,7 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=💻%20Tech%20Stack%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20•%20Node.js%20•%20Python%20•%20Docker%20•%20AWS%20•%20Kubernetes&descSize=20&descAlignY=55" width="100%"/>
-</p>
+
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
