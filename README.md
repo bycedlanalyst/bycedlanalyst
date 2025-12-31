@@ -187,12 +187,6 @@
   <a href="https://powerbi.microsoft.com/" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="50" />
   </a>
-  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" width="50" />
-  </a>
-  <a href="https://www.microsoft.com/fr-fr/sql-server" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Microsoft_SQL_Server_Logo.svg" height="50" width="50" />
-  </a>
   <a href="https://jupyter.org/" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="60" width="60" />
   </a>
