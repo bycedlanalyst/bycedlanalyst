@@ -32,9 +32,7 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,15&height=200&section=header&text=👨‍💻%20Code%20·%20Create%20·%20Innovate&fontSize=35&fontColor=fff&animation=blinking" width="100%"/>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
