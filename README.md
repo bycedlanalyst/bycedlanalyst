@@ -4,7 +4,6 @@
   <h1>
     Salut, je suis Cédric Boimin 👋
   </h1>
-<img width="470" height="125" alt="image" src="https://github.com/user-attachments/assets/69f05b48-5882-4d5c-a40f-b2dd484aefe1" />
   
   <h3>
     📊 Data Analyst &nbsp;|&nbsp;
