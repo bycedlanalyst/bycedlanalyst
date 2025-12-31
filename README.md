@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e96443,50:904e95,100:28a745&height=160&section=header&text=Data%20Analyst&fontSize=50&fontColor=fff&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
 <h1 align="center">
   Salut, je suis Cédric Boimin 👋
 </h1>
