@@ -34,7 +34,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00b8ff,100:9d00ff&height=250&section=header&text=🔧%20BUILDING%20THE%20FUTURE&fontSize=40&fontColor=000000&animation=blinking&fontAlignY=40&desc=JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descSize=18&descAlignY=65&descAlign=50&stroke=00ff41&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Python+%7C+React+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
 </p>
 
 <h3>👨‍💻 À Propos de Moi</h3>
