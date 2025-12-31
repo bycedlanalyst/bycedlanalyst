@@ -25,7 +25,10 @@
   <!-- Availability -->
   <img src="https://img.shields.io/badge/Disponible-Ouvert_aux_Opportunités-00B4D8?style=plastic" style="height: 20px;" />
 </p>
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+  
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+  
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
   
 <h3>👨‍💻 À Propos de Moi</h3>
