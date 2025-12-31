@@ -1,3 +1,4 @@
+  <p align="center">
   <h1>
     Salut, je suis Cédric Boimin 👋
   </h1>
