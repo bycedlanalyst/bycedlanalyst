@@ -171,15 +171,6 @@ Modèle de machine learning visant à anticiper la résiliation client, avec seg
 Conception d’un data warehouse avec modélisation en étoile, requêtes analytiques avancées et structuration des données pour des analyses décisionnelles.
 </p>
     </td>
-
-<!-- Project 4 -->
-  <td align="center">
-      <h4>📈 Excel Advanced Dashboard</h4>
-      <br>
-      <p align="center" style="margin-top: 10px;">
-Création de dashboards Excel avancés intégrant automatisation, formules complexes et tableaux croisés dynamiques pour un pilotage clair et efficace.
-</p>
-    </td>
   </tr>
 </table>
 
