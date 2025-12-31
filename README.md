@@ -32,11 +32,7 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Salut!+👋;Je+suis+un+Développeur;Passionné+par+la+Tech+🚀" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Full%20Stack%20Developer&fontAlign=70&rotate=13&fontAlignY=25&desc=React%20|%20Node.js%20|%20Python%20|%20Docker&descAlign=70&descAlignY=44" width="100%"/>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
