@@ -4,13 +4,6 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
 </p>
-  <h3>
-    📊 Data Analyst &nbsp;|&nbsp;
-    🤖 Big Data & IA &nbsp;|&nbsp;
-    📈 Business-Driven Analytics &nbsp;|&nbsp;
-    💡 Transformer les Données en Décisions
-  </h3>
-</div>
 
 <p align="center">
   <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Transformer+les+données+en+décisions.;Donner+du+sens+aux+chiffres.;Créer+des+dashboards+clairs+et+utiles.;De+la+donnée+brute+à+l%27impact+business.;Bienvenue+dans+mon+univers+data." />
