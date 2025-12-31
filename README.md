@@ -9,7 +9,8 @@
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Python+%7C+React+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
