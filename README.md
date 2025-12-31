@@ -33,9 +33,9 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-  
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:00b8ff,100:9d00ff&height=250&section=header&text=🔧%20BUILDING%20THE%20FUTURE&fontSize=40&fontColor=000000&animation=blinking&fontAlignY=40&desc=JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&descSize=18&descAlignY=65&descAlign=50&stroke=00ff41&strokeWidth=2" width="100%"/>
+</p>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
