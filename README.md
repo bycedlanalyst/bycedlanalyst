@@ -33,7 +33,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=👋+Bienvenue+sur+mon+profil+GitHub;Développeur+Full+Stack+passionné;Toujours+en+quête+d'apprentissage" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Salut!+👋;Je+suis+un+Développeur;Passionné+par+la+Tech+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
 <h3>👨‍💻 À Propos de Moi</h3>
