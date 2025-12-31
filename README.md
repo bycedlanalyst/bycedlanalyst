@@ -28,7 +28,15 @@
   
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=180&section=header&text=Cédric%20Boimin&fontSize=36&fontColor=ffffff&desc=Data%20Analyst%20|%20Big%20Data%20%26%20IA&descAlignY=65" />
+<h2 align="center">
+📊 Data Analyst | 🤖 Big Data & IA
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
