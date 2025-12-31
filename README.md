@@ -33,7 +33,10 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e96443,50:904e95,100:28a745&height=160&section=header&text=Software%20Engineer&fontSize=50&fontColor=fff&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+  
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
   <!-- Image on the Right -->
