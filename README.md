@@ -9,32 +9,32 @@
     📊 Data Analyst &nbsp;|&nbsp;
     🤖 Big Data & IA &nbsp;|&nbsp;
     📈 Business-Driven Analytics &nbsp;|&nbsp;
-    💡 Turning Data Into Decisions
+    💡 Transformer les Données en Décisions
   </h3>
 </div>
 
 <p align="center">
-  <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions.;Giving+meaning+to+numbers.;Building+clear+and+useful+dashboards.;From+raw+data+to+business+impact.;Welcome+to+My+Data+Universe." />
+  <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Transformer+les+données+en+décisions.;Donner+du+sens+aux+chiffres.;Créer+des+dashboards+clairs+et+utiles.;De+la+donnée+brute+à+l%27impact+business.;Bienvenue+dans+mon+univers+data." />
 </p>
 
-<h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Profile Insights</h2>
+<h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
 
 <p align="center">
   <!-- Status Badge -->
   <a href="https://github.com/CedricBoimin">
-    <img src="https://img.shields.io/badge/status-active-brightgreen.svg?style=plastic" style="height: 20px;" />
+    <img src="https://img.shields.io/badge/statut-actif-brightgreen.svg?style=plastic" style="height: 20px;" />
   </a>
 
   <!-- Python Version -->
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-Data_Analysis-FF1493.svg?style=plastic&logo=python" style="height: 20px;" />
+    <img src="https://img.shields.io/badge/Python-Analyse_de_Données-FF1493.svg?style=plastic&logo=python" style="height: 20px;" />
   </a>
 
   <!-- Profile Views -->
-  <img src="https://img.shields.io/badge/Profile_Views-Growing-blue?style=plastic&logo=GitHub" alt="Profile Views" style="height: 20px;"/>
+  <img src="https://img.shields.io/badge/Vues_du_Profil-En_Croissance-blue?style=plastic&logo=GitHub" alt="Vues du Profil" style="height: 20px;"/>
 
   <!-- Availability -->
-  <img src="https://img.shields.io/badge/Available-Open_to_Opportunities-00B4D8?style=plastic" style="height: 20px;" />
+  <img src="https://img.shields.io/badge/Disponible-Ouvert_aux_Opportunités-00B4D8?style=plastic" style="height: 20px;" />
 </p>
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
@@ -43,7 +43,7 @@
   
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
-<h3>👨‍💻 About Me</h3>
+<h3>👨‍💻 À Propos de Moi</h3>
 <div>
   <!-- Image on the Right -->
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Analyst Coding" width="350" align="right">
@@ -67,39 +67,41 @@
 
 <!-- Tech Stack Section -->
 <div style="margin-top: 40px;">
-  <h3 align="center">🛠️ Tech Stack & Tools</h3>
+  <h3 align="center">🛠️ Tech Stack & Outils</h3>
   <div align="center" class="icon-container">
     <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
     <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
     <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </div>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=plastic&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white" />
 </p>
 
 <p align="center">
   <img class="hoverable" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Game SVG" />
 </p>
 
-<h2>🤝 Connect with Me</h2>
+<h2>🤝 Contactez-moi</h2>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/cedric-boimin/">
@@ -116,11 +118,14 @@
 
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Langages et Outils :</h3>
 
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white" alt="SQL"/>
 
   <!-- Data & BI Tools -->
@@ -130,22 +135,18 @@
 
   <!-- Data Science -->
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 
   <!-- Version Control & Platforms -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 
   <!-- Tools -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 <!-- Projects Section -->
-<h3>📂 Data Projects I'm Proud Of</h3>
+<h3>📂 Projets Data dont je suis fier</h3>
 
 <table border="0">
   <tr>
@@ -206,19 +207,52 @@
   </a>
 </p>
 
-<h2 style="text-align: center;">📊 GitHub Stats</h2>
+<h2 style="text-align: center;">📊 Statistiques GitHub</h2>
 
-<p align="center" class="hoverable">
-      <img src="https://github-readme-stats.vercel.app/api?username=CedricBoimin&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" width="400" height="180" align="left"/>
-      <img src="https://streak-stats.demolab.com?user=CedricBoimin&theme=github-dark&hide_border=true&border_radius=12" width="400" height="180" align="right"/>
-  <img class="hoverable3" src="https://github-readme-activity-graph.vercel.app/graph?username=CedricBoimin&theme=github-dark&area=true&hide_border=true" />
-</p>
-
-<h3 style="text-align: center;">💬 Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricBoimin&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+  <a href="https://github.com/CedricBoimin">
+    <img src="https://img.shields.io/badge/Profil-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/CedricBoimin?tab=repositories">
+    <img src="https://img.shields.io/badge/Dépôts-Actifs-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><strong>Built with clarity, purpose, and data-driven mindset. 📊✨</strong></p>
+<div align="center">
+  <h3>💻 Mes Technologies de Prédilection</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/SQL-Expert-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-Avancé-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  </p>
+</div>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" />
+<p align="center" style="margin-top: 30px;">
+  <img src="https://img.shields.io/badge/💡-Transformateur_de_Données-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Data_Analyst-FF6B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Prêt_pour_les_Défis-00D9FF?style=for-the-badge" />
+</p>
+
+<p align="center" style="margin-top: 30px;">
+  <img src="https://img.shields.io/badge/✨-Construit_avec_clarté-FF6B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡-Approche_data--driven-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Détermination-FFD93D?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <strong>
+    🎉 <strong>Merci</strong> de visiter mon profil ! 
+    <strong>N'hésitez pas</strong> à me contacter pour des 
+    <strong>collaborations</strong> ou des 
+    <strong>opportunités</strong> ! 🎉
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💼-Collaborations-FF6B9D?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤝-Opportunités-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧-Contactez_moi-FFD93D?style=for-the-badge&logo=gmail&logoColor=black" />
+</p>
