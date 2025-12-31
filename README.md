@@ -4,6 +4,9 @@
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
 </p>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
+</p>
   <h3>
     📊 Data Analyst &nbsp;|&nbsp;
     🤖 Big Data & IA &nbsp;|&nbsp;
