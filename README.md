@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <div align="center">
   <h1>
-    Hi, I'm Cédric Boimin 👋
+    Salut, je suis Cédric Boimin 👋
   </h1>
 
   <h3>
@@ -173,7 +173,7 @@
 <!-- Project 4 -->
   <td align="center">
       <h4>📈 Excel Advanced Dashboard</h4>
-      <img src="https://cdn.dribbble.com/userupload/10543014/file/original-4703d0ba72b72f87fa49a618a24a1f6d.gif" width="200" height="140" alt="Excel Dashboard"><br>
+      <br>
       <p>Automatisation avancée, formules complexes, tableaux croisés dynamiques et visualisations claires pour décideurs. Business Intelligence avec Excel.</p>
     </td>
   </tr>
