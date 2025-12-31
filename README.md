@@ -7,6 +7,9 @@
 </p>
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" width="100%" alt="Header" />
+</p>
 
 <p align="center">
   <!-- Status Badge -->
