@@ -221,9 +221,9 @@
 <div align="center">
   <h3>💻 Mes Technologies de Prédilection</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQL-Expert-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-Opérationnel-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-Opérationnel -F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/SQL-Opérationnel-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     <img src="https://img.shields.io/badge/Excel-Avancé-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   </p>
 </div>
