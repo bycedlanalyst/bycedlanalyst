@@ -245,3 +245,6 @@
   <img src="https://img.shields.io/badge/🤝-Opportunités-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/📧-Contactez_moi-FFD93D?style=for-the-badge&logo=gmail&logoColor=black" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
