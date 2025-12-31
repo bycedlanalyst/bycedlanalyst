@@ -9,8 +9,7 @@
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Python+%7C+React+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=💻%20Tech%20Stack%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=React%20•%20Node.js%20•%20Python%20•%20Docker%20•%20AWS%20•%20Kubernetes&descSize=20&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
