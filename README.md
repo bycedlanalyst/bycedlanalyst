@@ -28,8 +28,8 @@
   
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Data%20Analytics%20%26%20BI&fontAlign=50&fontSize=34&desc=Power%20BI%20%7C%20SQL%20Server%20%7C%20Python&descAlign=50&descAlignY=70" />
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=180&section=header&text=Cédric%20Boimin&fontSize=36&fontColor=ffffff&desc=Data%20Analyst%20|%20Big%20Data%20%26%20IA&descAlignY=65" />
+
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
   <!-- Image on the Right -->
