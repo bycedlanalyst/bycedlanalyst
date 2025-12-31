@@ -54,7 +54,7 @@
 
 <!-- Tech Stack Section -->
 <div style="margin-top: 40px;">
-  <h3 align="center">🛠️ Tech Stack & Outils</h3>
+  <h2 align="center">🛠️ Tech Stack & Outils</h2>
   <div align="center" class="icon-container">
     <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
     <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
