@@ -32,9 +32,9 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
