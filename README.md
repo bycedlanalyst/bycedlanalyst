@@ -36,7 +36,7 @@
 </h2>
 
 <p align="center">
-  <img src="DashPowerbi.png" width="100%" alt="Dash Power BI" />
+  <img src="PowerBi1.png" width="80%" height="400px" alt="Dash Power BI" />
 </p>
 
 <h3>👨‍💻 À Propos de Moi</h3>
