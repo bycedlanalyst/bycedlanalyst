@@ -35,10 +35,6 @@
 📊 Data Analyst | 🤖 Big Data & IA
 </h2>
 
-<p align="center">
-  <img src="PowerBi1.png" width="80%" height="400px" alt="Dash Power BI" />
-</p>
-
 <h3>👨‍💻 À Propos de Moi</h3>
 <div>
   <!-- Image on the Right -->
