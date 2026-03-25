@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=📊%20Data%20Analyst%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20•%20SQL%20•%20Power%20BI%20•%20Tableau%20•%20Excel%20•%20Statistics&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=%20Data%20Analyst%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20•%20SQL%20•%20Power%20BI%20•%20Tableau%20•%20Excel%20•%20Statistics&descSize=20&descAlignY=55" width="100%"/>
 </p>
 <h1 align="center">
   Salut, je suis Cédric Boimin 👋
