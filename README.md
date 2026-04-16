@@ -170,27 +170,6 @@ Conception d’un data warehouse avec modélisation en étoile, requêtes analyt
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.python.org/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" width="50" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="50" />
-  </a>
-  <a href="https://jupyter.org/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="60" width="60" />
-  </a>
-  <a href="https://pandas.pydata.org/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="60" width="60" />
-  </a>
-  <a href="https://git-scm.com/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="60" width="60" />
-  </a>
-  <a href="https://github.com/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="60" width="60" />
-  </a>
-</p>
-
 <h2 style="text-align: center;">📊 Statistiques GitHub</h2>
 
 <p align="center">
