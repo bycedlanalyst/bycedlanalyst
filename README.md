@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/" />
 </p>
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
