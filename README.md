@@ -170,16 +170,6 @@ Conception d’un data warehouse avec modélisation en étoile, requêtes analyt
   </tr>
 </table>
 
-<h2 style="text-align: center;">📊 Statistiques GitHub</h2>
-
-<p align="center">
-  <a href="https://github.com/CedricBoimin">
-    <img src="https://img.shields.io/badge/Profil-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/CedricBoimin?tab=repositories">
-    <img src="https://img.shields.io/badge/Dépôts-Actifs-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <div align="center">
   <h3>💻 Mes Technologies de Prédilection</h3>
