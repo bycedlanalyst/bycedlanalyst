@@ -60,17 +60,6 @@
 <!-- Tech Stack Section -->
 <div style="margin-top: 40px;">
   <h2 align="center">🛠️ Tech Stack & Outils</h2>
-  <div align="center" class="icon-container">
-    <img src="https://skillicons.dev/icons?i=excel" alt="Excel" />
-    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </div>
 </div>
 
 <p align="center">
