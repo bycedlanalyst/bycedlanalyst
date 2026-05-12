@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=%20&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=%20&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=&descSize=20&descAlignY=55" width="100%"/>
 </p>
 <h1 align="center">
   Salut, je suis Cédric Boimin 👋
