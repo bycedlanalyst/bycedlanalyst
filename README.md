@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=%20Explorer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=%20&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=&descSize=20&descAlignY=55" width="100%"/>
 </p>
 <h1 align="center">
   Salut, je suis Cédric Boimin 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Big+Data+%26+IA;Analyse+de+donn%C3%A9es;Power+BI+%7C+SQL+%7C+Python;Transformer+les+chiffres+en+insights;&center=true&width=750&height=45" />
 </p>
 ``
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">📊 Aperçu du Profil</h2>
