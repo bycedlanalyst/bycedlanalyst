@@ -100,31 +100,6 @@
 
 <h3 align="left">📂 Projets Data dont je suis fier</h3>
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=mysql&logoColor=white" alt="SQL"/>
-
-  <!-- Data & BI Tools -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-  <!-- Version Control & Platforms -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Cursor-000000?style=plastic&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
 <!-- Projects Section -->
 
 <table border="0">
