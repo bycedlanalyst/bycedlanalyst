@@ -98,7 +98,7 @@
 
 </p>
 
-<h3 align="left">💻 Langages et Outils :</h3>
+<h3 align="left">📂 Projets Data dont je suis fier</h3>
 
 <p align="left">
   <!-- Programming Languages -->
@@ -126,7 +126,6 @@
 </p>
 
 <!-- Projects Section -->
-<h3>📂 Projets Data dont je suis fier</h3>
 
 <table border="0">
   <tr>
